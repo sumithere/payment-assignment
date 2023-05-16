@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cbd2ae0.css",
-    "main.js": "/static/js/main.b60cc69b.js",
-    "static/js/787.6e3f55ca.chunk.js": "/static/js/787.6e3f55ca.chunk.js",
-    "static/media/BackGround.png": "/static/media/BackGround.e8c9cb4c0636ae856448.png",
-    "index.html": "/index.html",
-    "main.6cbd2ae0.css.map": "/static/css/main.6cbd2ae0.css.map",
-    "main.b60cc69b.js.map": "/static/js/main.b60cc69b.js.map",
-    "787.6e3f55ca.chunk.js.map": "/static/js/787.6e3f55ca.chunk.js.map"
+    "main.css": "/payment-assignment/static/css/main.b169081d.css",
+    "main.js": "/payment-assignment/static/js/main.6aa3ef1e.js",
+    "static/js/787.6e3f55ca.chunk.js": "/payment-assignment/static/js/787.6e3f55ca.chunk.js",
+    "static/media/BackGround.png": "/payment-assignment/static/media/BackGround.e8c9cb4c0636ae856448.png",
+    "index.html": "/payment-assignment/index.html",
+    "main.b169081d.css.map": "/payment-assignment/static/css/main.b169081d.css.map",
+    "main.6aa3ef1e.js.map": "/payment-assignment/static/js/main.6aa3ef1e.js.map",
+    "787.6e3f55ca.chunk.js.map": "/payment-assignment/static/js/787.6e3f55ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cbd2ae0.css",
-    "static/js/main.b60cc69b.js"
+    "static/css/main.b169081d.css",
+    "static/js/main.6aa3ef1e.js"
   ]
 }
